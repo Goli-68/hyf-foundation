@@ -1,2 +1,3 @@
 pink
 blue
+red is my color
